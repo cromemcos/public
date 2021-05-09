@@ -8,7 +8,7 @@ Files here are believed to be in the public domain. However if you claim and can
 
 With that said enjoy.
 
-INTRUCTIONS TO JOIN THIS GIRHUB
+INSTRUCTIONS TO JOIN THIS GITHUB of Cromemco Files
 
 - First become a member of the Cromemco Google Group
 
@@ -20,7 +20,9 @@ INTRUCTIONS TO JOIN THIS GIRHUB
 
 - The resources provided are for non commercial and non profit usage only
 
-- You agree not to sue me or to request any money from me for any documents or data contained theirin
+- You agree not to take any legal action against me or to help facilitate to have any legal action taken against me
+
+- You agree not to request any money from me for any documents or data contained theirin
 
 - You agree to work cooperatively to enhance these contents
 
