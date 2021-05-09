@@ -16,7 +16,7 @@ INSTRUCTIONS TO JOIN THIS GITHUB of Cromemco Files
 
 - Explicitly agree by reply of email to cromemcos@gmail.com to the following terms
 
-- You are free to download some or all of this Github
+- You are free to download some or all of the Github https://github.com/cromemcos/m
 
 - The resources provided are for non commercial and non profit usage only
 
