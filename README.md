@@ -14,7 +14,9 @@ INSTRUCTIONS TO JOIN THIS GITHUB of Cromemco Files
 
 - Make the request supplying the email that you will use at Github
 
-- Explicitly agree by reply of email to cromemcos@gmail.com to the following terms
+- Explicitly agree by reply of email to cromemcos@gmail.com to the following terms.   Don't forget to quote the text here in your reply.
+
+TERMs:
 
 - You are free to download some or all of the Github https://github.com/cromemcos/m
 
