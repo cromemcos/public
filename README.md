@@ -24,7 +24,7 @@ TERMs:
 
 - You agree not to take any legal action against me or to help facilitate to have any legal action taken against me
 
-- You agree not to request any money from me for any documents or data contained theirin
+- You agree not to request any money from me for any documents or data contained therein
 
 - You agree to work cooperatively to enhance these contents
 
