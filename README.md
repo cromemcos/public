@@ -10,7 +10,7 @@ With that said enjoy.
 
 INSTRUCTIONS TO JOIN THIS GITHUB of Cromemco Files
 
-- First become a member of the Cromemco Google Group
+- First become a member of the Cromemco Google Group, by sending an email to cromemcos@gmail.com
 
 - Make the request supplying the email that you will use at Github
 
