@@ -10,11 +10,11 @@ With that said enjoy.
 
 INSTRUCTIONS TO JOIN THIS GITHUB of Cromemco Files
 
-- First become a member of the Cromemco Google Group, by sending an email to cromemcos@gmail.com
+First become a member of the Cromemco Google Group, by sending an email to cromemcos@gmail.com
 
-- Make the request supplying the email that you will use at Github
-
-- Explicitly agree by reply of email to cromemcos@gmail.com to the following terms.   Don't forget to quote the text here in your reply.
+Make the request supplying the email that you will use at Github
+In that same email or a second to  cromemcos@gmail.com agree to the following terms. 
+Don't forget to quote the text below here in your reply.
 
 TERMs:
 
@@ -41,9 +41,10 @@ In order to support Cromemco users there is also a related S100 github area.
 INSTRUCTIONS TO JOIN THIS S100 GITHUB 
 
 
-- Make the following request supplying the email that you will use at Github
+- Make the following request supplying the email that you will use at Github by sending an email to cromemcos@gmail.com
 
-- Explicitly agree by reply of email to cromemcos@gmail.com to the following terms.   Don't forget to quote the text here in your reply.
+- In that same email or a second to  cromemcos@gmail.com agree to the following terms.   
+Don't forget to quote the text below here in your reply.
 
 TERMs:
 
@@ -58,3 +59,4 @@ TERMs:
 - You agree to work cooperatively to enhance these contents
 
 - You do not pass on information ie. files from this Github to others, rather they should join it and download for themselves.
+
